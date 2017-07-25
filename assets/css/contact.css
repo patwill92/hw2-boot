@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  background-image: url("../../grey/grey.png");
+  background-image: url("../images/grey.png");
   min-height: 100vh;
   display: flex;
   justify-content: space-between;
